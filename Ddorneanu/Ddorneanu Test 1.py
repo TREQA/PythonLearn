@@ -16,3 +16,4 @@ print ("numere prime: " + str(result))
 # test 2
 # test
 #test 3
+# test 7
