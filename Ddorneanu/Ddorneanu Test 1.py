@@ -13,4 +13,6 @@ for index in nums:
     if int(index)%2!=0:
         result.append(nums[index])
 print ("numere prime: " + str(result))
+# test 2
 # test
+#test 3
